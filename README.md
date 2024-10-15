@@ -2,7 +2,7 @@
 
 # Preview
 
-https://media.discordapp.net/attachments/1212949487908159540/1294714057365917706/image.png?ex=670c03ed&is=670ab26d&hm=15a63aacb52b85fe64c411175ca5eac2957b2c48fc68f42c2f7bf3e8c124a12c&=&format=webp&quality=lossless&width=455&height=77
+https://imgur.com/a/3hW0gd6
 
 
 # Usage
